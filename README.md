@@ -1,1 +1,2 @@
-# class
+# OMNIUS
+OMNIUS CLASS
